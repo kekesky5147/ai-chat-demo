@@ -320,7 +320,7 @@ export default function Home () {
             </div>
           </div>
         ))}
-        {loading && <p>AI가 타이핑 중…</p>}
+        {loading && <p>AI가 답변 중…</p>}
       </div>
 
       {/* 입력창 */}
